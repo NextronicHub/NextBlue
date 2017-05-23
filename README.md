@@ -8,17 +8,17 @@ NextBlue has all of the hardware peripherals like the Arduino.
 # Features: 
 
 ATmega328 microcontroller with Optiboot (UNO) Bootloader
-/Input voltage - 7-15V
-/0-5V outputs
-/14 Digital I/O Pins (6 PWM outputs)
-/6 Analog Inputs
-/I2C, UART and SPI
-/32k Flash Memory
-/16MHz Clock Speed
-/All SMD Construction
-/R3 Shield Compatible
-/Bluetooth connector (EN, 5V, GND, TX, RX, STATE) 
-/Software/hardware serial selector switch for the Bluetooth
+Input voltage - 7-15V
+  0-5V outputs
+  14 Digital I/O Pins (6 PWM outputs)
+  6 Analog Inputs
+  I2C, UART and SPI
+  32k Flash Memory
+  16MHz Clock Speed
+  All SMD Construction
+  R3 Shield Compatible
+  Bluetooth connector (EN, 5V, GND, TX, RX, STATE) 
+  Software/hardware serial selector switch for the Bluetooth
 
 Nextronic Product page:[NextBlue](http://nextronic.ma/product/nextblue/).
 
