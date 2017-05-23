@@ -1,11 +1,11 @@
-# Nextronic NextBlue
+## Nextronic NextBlue
 
 With nextBlue, your Iot and Bluetooth applications are  easier to make
 it's a 5v 16Mhz board based on the ATmega328P microcontroller with a built-in Bluetooth connector
 NextBlue can be programmed over a USB Mini-B cable using the Arduino IDE: Just plug in the board, select “Arduino UNO” from the board menu and you’re ready to upload code.
 NextBlue has all of the hardware peripherals like the Arduino.
 
-# Features: 
+# Features
 
   ATmega328 microcontroller with Optiboot (UNO) Bootloader<br />
   Input voltage - 7-15V<br />
@@ -19,6 +19,10 @@ NextBlue has all of the hardware peripherals like the Arduino.
   R3 Shield Compatible<br />
   Bluetooth connector (EN, 5V, GND, TX, RX, STATE) <br />
   Software/hardware serial selector switch for the Bluetooth<br />
+
+<br />
+<br />
+
 
 Nextronic Product page:[NextBlue](http://nextronic.ma/product/nextblue/).
 
