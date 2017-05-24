@@ -22,7 +22,7 @@ NextBlue has all of the hardware peripherals like the Arduino.
 
 <br />
 <br />
-
+[FTDI driver](http://www.ftdichip.com/Drivers/VCP.htm)
 
 Nextronic Product page:[NextBlue](http://nextronic.ma/product/nextblue/).
 
